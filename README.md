@@ -1,4 +1,5 @@
 <div align=center>
+  
 ### Hi there 👋
 
 <!--
@@ -16,9 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## ![type](type.svg)
 -->
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Web0174+;%F0%9F%98%80)](https://git.io/typing-svg)
-
-
 
 
 </div>
