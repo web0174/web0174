@@ -1,12 +1,12 @@
 <div align=center>
   
-<div><h4>☮️ basta guerre ☮️ no more wars ☮️ no más guerras ☮️ </h4></div>
+<div><h4> ☮️ basta guerre ☮️ </h4></div>
 
 ***
 
 </div>
 
-<img align="left" src="https://github.com/web0174/web0174/blob/9501acd80dea480ae606896b9a869c627e7581ad/media/octocat-1705739622117.png" width="450" height="auto" alt="My Octcat"  />
+<img align="left" src="/media/octocat-1705739622117_color.png" width="450" height="auto" alt="My Octcat"  />
 
 <div align="left">
   
