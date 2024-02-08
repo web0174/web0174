@@ -1,6 +1,6 @@
 <div align=center>
   
-<div><h4> ☮️ basta guerre ☮️ </h4></div>
+<div><h4> ☮️ BASTA GUERRE! ☮️ </h4></div>
 
 ***
 
