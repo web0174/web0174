@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="left" src="/media/octocat-1705739622117_color.png" width="450" height="auto" alt="My Octcat"  />
+<img align="left" src="media/octocat-1705739622117_color.png" width="450" height="auto" alt="My Octcat"  />
 
 <div align="left">
   
@@ -75,6 +75,6 @@ Here are some ideas to get you started:
 https://readme-typing-svg.demolab.com/demo/
 -->
 
-![](made.svg)
+![](media/made.svg)
 
 </div>
