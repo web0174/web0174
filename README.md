@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="left" src="media/octocat-1705739622117_color.png" width="450" height="auto" alt="My Octcat"  />
+<img align="left" src="https://avatars.githubusercontent.com/u/8037897?v=4" width="350" height="auto" alt="My alterego"  />
 
 <div align="left">
   
@@ -54,13 +54,15 @@ Here are some ideas to get you started:
 ## ![type](type.svg)
 -->
 
-#### <a href="https://web0174_public.gitlab.io" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gitlab&logo=gitlab&label=&color=e24329&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  /> </a> <a href="https://web0174.github.io" target="_blank"> <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=333&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  /> </a>
 
 </div>
 
 <div align=center>
   
 <br>
+<a href="https://web0174_public.gitlab.io" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gitlab&logo=gitlab&label=&color=e24329&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  /> </a> 
+<a href="https://web0174.github.io" target="_blank"> <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=333&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gitlab logo"  /> </a>
+
 
 </div>
 
